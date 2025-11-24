@@ -22,19 +22,11 @@ class DatabaseSeeder extends Seeder
         $categories = [
             'Technology',
             'Health',
-            'Travel',
-            'Education',
-            'Lifestyle',
-            'Food',
-            'Finance',
             'Entertainment',
             'Sports',
             'Business',
             'Politics',
             'Science',
-            'Environment',
-            'Culture',
-            'Fashion',
         ];
 
         foreach ($categories as $category) {
